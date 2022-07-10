@@ -1,0 +1,9 @@
+PENSAMENTO COMPUTACIONAL
+
+Decomposição : Separar em partes.
+Padrão: Caracteristicas em comum.
+Abstração: Foco  nos aspectos principais. NÃO nos detalhes.
+Algoritimo: Sequência de ações.
+
+
+
