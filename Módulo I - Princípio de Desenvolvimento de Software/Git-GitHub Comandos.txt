@@ -1,0 +1,27 @@
+Git/GitHUB 
+
+Git/GitHUB -> Arquivos 
+
+Criar o repositório no Git/HUb
+Copiar link repositório
+Ir na pasta desejada 
+Abri Open Git Bash
+
+Git Comandos
+
+*git clone <colar link diretório>
+*cd ## Entrar na pasta
+
+ Arquivos -> Git/GitHUB 
+
+*git add . 
+*git status
+*git commit -m "Mensagem com qual é alteração
+*git status
+*git push 
+Atulizar GITHUB;)
+ 
+
+
+
+
